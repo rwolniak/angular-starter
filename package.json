@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "author": "rwolniak",
+  "version": "0.1.0",
+  "description": "codebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests. Please write tests\" && exit 1"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "live-server": "^1.1.0"
+  }
+}
